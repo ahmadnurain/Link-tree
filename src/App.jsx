@@ -19,7 +19,7 @@ function App() {
           <BlurText text="Hallo! I'm Ahmad Nur Ain" delay={200} animateBy="words" direction="bottom" threshold={0.9} className="text-white lg:text-4xl md:text-3xl font-bold z-50 text-2xl" />
           <span className="inline-block w-0 lg:text-3xl md:text-2xl text-xl opacity-0 transition-opacity duration-300 group-hover:opacity-100 z-10 ">👋</span>
         </div>
-        <div className="flex items-center space-x-3 lg:text-xl md:text-xl text-lg font-bold  mb-6 mt-5 z-10">
+        <div className="flex items-center space-x-3 lg:text-xl md:text-xl text-base font-bold  mb-6 mt-5 z-10">
           {/* Teks Statis */}
           <span className="text-white font-semibold">🚀 Passionate in:</span>
 
