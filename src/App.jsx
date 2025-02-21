@@ -65,7 +65,7 @@ function App() {
           </a>
 
           {/* Instagram */}
-          <a href="https://my-portofolio-e4gy.vercel.app/" target="_blank" rel="noopener noreferrer">
+          <a href="https://my-portofolio-delta-livid.vercel.app/" target="_blank" rel="noopener noreferrer">
             <FaGlobe className="text-blue-400 text-4xl hover:text-blue-600 transition duration-300 hover:scale-105" />
           </a>
         </div>
