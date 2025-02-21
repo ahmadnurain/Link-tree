@@ -1,7 +1,7 @@
 import Squares from "./blocks/Backgrounds/Squares/Squares";
 import BlurText from "./blocks/TextAnimations/BlurText/BlurText";
 import RotatingText from "./blocks/TextAnimations/RotatingText/RotatingText";
-import { FaLinkedin, FaGithub, FaInstagram } from "react-icons/fa";
+import { FaLinkedin, FaGithub, FaInstagram, FaGlobe } from "react-icons/fa";
 import "./App.css";
 
 function App() {
@@ -62,6 +62,11 @@ function App() {
           {/* Instagram */}
           <a href="https://www.instagram.com/amdain54/" target="_blank" rel="noopener noreferrer">
             <FaInstagram className="text-pink-500 text-4xl hover:text-pink-700 transition duration-300 hover:scale-105" />
+          </a>
+
+          {/* Instagram */}
+          <a href="https://my-portofolio-e4gy.vercel.app/" target="_blank" rel="noopener noreferrer">
+            <FaGlobe className="text-blue-400 text-4xl hover:text-blue-600 transition duration-300 hover:scale-105" />
           </a>
         </div>
       </div>
