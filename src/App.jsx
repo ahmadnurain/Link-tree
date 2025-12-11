@@ -78,7 +78,7 @@ function App() {
         {/* Links Section - Vertical Stack for Better Readability */}
         <motion.div variants={containerVariants} initial="hidden" animate="visible" className="flex flex-col gap-4 w-full">
           {/* Portfolio - Highlighted */}
-          <LinkCard title="Portfolio Website" description="View my latest projects, case studies, and journey." icon={FaGlobe} url="https://my-portofolio-e4gy.vercel.app/" color="bg-neutral-900" />
+          <LinkCard title="Portfolio Website" description="View my latest projects, case studies, and journey." icon={FaGlobe} url="https://my-portofolio-delta-livid.vercel.app/" color="bg-neutral-900" />
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             {/* GitHub */}
